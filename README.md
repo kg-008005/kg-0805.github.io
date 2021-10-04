@@ -5,6 +5,7 @@ A simple resume 👨‍🎓👨‍🎓👨‍🎓 website created using HTML, CS
 HTML
 CSS
 JS
+Mind
 
 
 
